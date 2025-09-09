@@ -6,7 +6,7 @@
 - [Atividade 03]( https://annaellycavitoria.github.io/Atividade-03/)
 - [Atividade 04]( https://annaellycavitoria.github.io/Atividade-04/)
 - [Atividade 05](https://annaellycavitoria.github.io/Atividade-05/)
-- [Atividade 06]
+- [Atividade 06]( https://annaellycavitoria.github.io/Atividade-06/)
 - [Atividade 07]
 - [Atividade 08]
 - [Atividade 09]
