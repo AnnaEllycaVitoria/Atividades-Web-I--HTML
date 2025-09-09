@@ -2,7 +2,7 @@
 ## Anna Ellyca Vitoria de Lima Santos 
 
 - [Atividade 01]( https://annaellycavitoria.github.io/Atividade-01/)
-- [Atividade 02]
+- [Atividade 02](https://annaellycavitoria.github.io/Atividade-02/)
 - [Atividade 03]
 - [Atividade 04]
 - [Atividade 05]
