@@ -1,13 +1,17 @@
 # Atividades-Web-I--HTML
+---
 
 # 🎯 Objetivo
 Este repositório busca reunir e documentar as atividades propostas em sala de aula, promovendo a prática dos conceitos fundamentais de HTML.
 
-📌 Informações
+# 📌 Informações
 Aluno: Anna Ellyca Vitoria de Lima Santos 
+
 Disciplina: Desenvolvimento Web I
+
 Professor: Thomaz Maia De Almeida
 
+---
 
 - [Atividade 01]( https://annaellycavitoria.github.io/Atividade-01/)
 - [Atividade 02](https://annaellycavitoria.github.io/Atividade-02/)
@@ -22,4 +26,4 @@ Professor: Thomaz Maia De Almeida
 - [Atividade 11]( https://annaellycavitoria.github.io/Atividade-11/)
 - [Atividade 12]( https://annaellycavitoria.github.io/Atividade-12/)
 - [Atividade 13]( https://annaellycavitoria.github.io/Atividade-13/)
-- [Atividade 14]( https://annaellycavitoria.github.io/Atividade-08/)
+- [Atividade 14]( https://annaellycavitoria.github.io/Atividade-14/)
